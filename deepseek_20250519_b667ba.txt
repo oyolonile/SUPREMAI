@@ -1,0 +1,16 @@
+/email-sender-app
+    /static
+        /css
+            style.css
+        /js
+            script.js
+        /images
+            background.gif
+    /templates
+        index.html
+        dashboard.html
+        login.html
+        register.html
+    app.py
+    requirements.txt
+    LICENSE_KEY.txt
